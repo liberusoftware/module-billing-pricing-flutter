@@ -1,0 +1,15 @@
+{
+  "repository": "module-billing-pricing-flutter",
+  "capabilityKey": "liberusoftware/module-billing-pricing",
+  "presentation": "mobile-flutter",
+  "package": "module_billing_pricing_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/billing/nextjs/pricing.md",
+  "presentationPlan": "projects/billing/flutter/pricing.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "billing"
+  ]
+}
